@@ -57,7 +57,7 @@ None.
 
     - hosts: kibana
       roles:
-        - geerlingguy.kibana
+        - Xat59.kibana
 
 ## License
 
@@ -65,4 +65,4 @@ MIT / BSD
 
 ## Author Information
 
-This role was created in 2014 by [Jeff Geerling](https://www.jeffgeerling.com/), author of [Ansible for DevOps](https://www.ansiblefordevops.com/).
+This role was forked by Xat59 in 2020 from a good work of Jeff Geerling.
