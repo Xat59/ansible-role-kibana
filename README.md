@@ -7,7 +7,9 @@
 </p>
 
 <p align="center">
-[![Build Status](https://travis-ci.org/Xat59/ansible-role-kibana.svg?branch=master)](https://travis-ci.org/Xat59/ansible-role-kibana)
+    <a href="https://travis-ci.org/Xat59/ansible-role-kibana">
+        <img src="https://travis-ci.org/Xat59/ansible-role-kibana.svg?branch=master">
+    </a>
 </p>
 
 An Ansible Role that installs Kibana on RedHat/CentOS or Debian/Ubuntu.
