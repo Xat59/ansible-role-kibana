@@ -1,6 +1,14 @@
 # Ansible Role: Kibana
 
+<p align="center">
+    <a id="kibana" href="#kibana">
+        <img src="https://github.com/Xat59/ansible-role-kibana/blob/master/media/kibana.png" alt="Kibana title" title="Kibana title" width="600"/>
+    </a>
+</p>
+
+<p align="center">
 [![Build Status](https://travis-ci.org/Xat59/ansible-role-kibana.svg?branch=master)](https://travis-ci.org/Xat59/ansible-role-kibana)
+</p>
 
 An Ansible Role that installs Kibana on RedHat/CentOS or Debian/Ubuntu.
 
