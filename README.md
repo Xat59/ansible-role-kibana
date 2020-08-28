@@ -61,13 +61,13 @@ If Elasticsearch is protected by HTTP basic authentication, set the username and
 
 ## Dependencies
 
-None.
+- elasticsearch
 
 ## Example Playbook
 
     - hosts: kibana
       roles:
-        - Xat59.kibana
+        - xat59.kibana
 
 ## License
 
