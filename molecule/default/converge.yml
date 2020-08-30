@@ -10,7 +10,7 @@
 
   roles:
     - role: geerlingguy.elasticsearch
-    - role: Xat59.kibana
+    - role: xat59.kibana
 
   post_tasks:
     - name: Ensure Kibana is running.
